@@ -1,0 +1,71 @@
+﻿.btn-style {
+    background-color: #fed136;
+    border-color: #fed136;
+    border-radius: 3px;
+    color: #fff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 40px;
+    text-transform: uppercase;
+}
+.coustomize-navbar {
+    background: rgb(30, 126, 230);
+    background: -moz-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: -webkit-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: -o-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: -ms-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: linear-gradient(120deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    border: 0 none;  
+}
+.customized-header {
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    background: rgb(30, 126, 230);
+    background: -moz-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: -webkit-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: -o-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: -ms-linear-gradient(30deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+    background: linear-gradient(120deg, rgb(30, 126, 230) 29%, rgb(90, 211, 250) 56%);
+}
+.navbar-default .navbar-brand {
+   color: #ffffff;
+    font-family: sans-serif;
+
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    background-color: transparent;
+    color: #000000;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+    font-family:sans-serif
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: transparent;
+    color: #000;
+}
+.text-intro-style {
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+}
+.text-welcome-style {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+.text-position {
+    padding-top: 300px;
+    padding-bottom: 150px;
+}
+
+
