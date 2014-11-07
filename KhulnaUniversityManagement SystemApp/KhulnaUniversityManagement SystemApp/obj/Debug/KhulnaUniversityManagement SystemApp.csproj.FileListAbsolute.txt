@@ -10,3 +10,9 @@ C:\Users\PC21\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversit
 C:\Users\PC21\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\obj\Debug\KhulnaUniversityManagement SystemApp.csprojResolveAssemblyReference.cache
 C:\Users\PC21\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\obj\Debug\KhulnaUniversityManagement SystemApp.dll
 C:\Users\PC21\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\obj\Debug\KhulnaUniversityManagement SystemApp.pdb
+C:\Users\Hafiz\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\bin\KhulnaUniversityManagement SystemApp.dll.config
+C:\Users\Hafiz\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\bin\KhulnaUniversityManagement SystemApp.dll
+C:\Users\Hafiz\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\bin\KhulnaUniversityManagement SystemApp.pdb
+C:\Users\Hafiz\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\obj\Debug\KhulnaUniversityManagement SystemApp.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\obj\Debug\KhulnaUniversityManagement SystemApp.dll
+C:\Users\Hafiz\Desktop\theme\KhulnaUniversityManagement SystemApp\KhulnaUniversityManagement SystemApp\obj\Debug\KhulnaUniversityManagement SystemApp.pdb

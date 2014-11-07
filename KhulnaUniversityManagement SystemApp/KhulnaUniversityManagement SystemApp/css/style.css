@@ -68,12 +68,15 @@
     padding-bottom: 150px;
 }
 
-
+.customized-logo {
+     padding: 20px 5px;
+}
 
 #gp-logo-inner, .level-one-landing #gp-logo-black {
     display: block;
-    /*height: 60px;
-    width: 400px;*/
+    height: 65px;
+    width: 350px;
+   
 }
 .level-one-landing #gp-logo-inner {
     display: none;
